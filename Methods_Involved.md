@@ -1,4 +1,4 @@
-Certainly! Let's go through each function in detail and explain what happens at each step.
+
 
 ### Constructor
 ```java
