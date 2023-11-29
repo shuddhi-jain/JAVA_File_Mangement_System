@@ -41,7 +41,4 @@ java Main
 Follow the on-screen prompts to interact with the file system.
 
 ## Note
-
-- Ensure that you have the necessary permissions to create, modify, and delete files and directories in the specified base directory.
-
 Feel free to explore and modify the program to suit your needs!
