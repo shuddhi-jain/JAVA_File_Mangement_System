@@ -34,7 +34,8 @@ Compile the program and run the main class (`FileSystem`) from the command line 
 
 ```bash
 javac FileSystem.java
-java FileSystem
+javac Main.java
+java Main
 ```
 
 Follow the on-screen prompts to interact with the file system.
